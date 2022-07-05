@@ -1,0 +1,6 @@
+- [paper link](https://arxiv.org/abs/2203.16937)
+- 參考 [[TTS-Skins]] 使用 pretrained ASR 模型抽取語音內容特徵，在論文中使用 Nvidia 訓練的 Conformer
+- 搭配可訓練的 pitch encoder [[BNE-Seq2seqMoL]] 補回 source voice pitch
+- 用 5 層的 ResBlock 抽取 target speaker style，以 $\mu$ 與 $\sigma$ 表示 speaker 的特徵分佈
+- 與常見的 vc 架構不同，沒有區分 encoder 與 vocoder
+	- 使用調整過得 [[HiFi-GAN]] 的架構將 content, pitch, speaker style features 合成並轉換為 waveform
