@@ -4,3 +4,5 @@
 - 用 5 層的 ResBlock 抽取 target speaker style，以 $\mu$ 與 $\sigma$ 表示 speaker 的特徵分佈
 - 與常見的 vc 架構不同，沒有區分 encoder 與 vocoder
 	- 使用調整過得 [[HiFi-GAN]] 的架構將 content, pitch, speaker style features 合成並轉換為 waveform
+- [[HiFi-GAN]]
+	- [[Feature Matching Loss]]

@@ -32,9 +32,10 @@
 	- Generator Loss ($\mathcal{L}_G$)
 		- GAN Loss ($\mathcal{L}_{advG}^{(k)}$)
 			- ${(D(\tilde{s})-1)}^2$
-		- Mel-Spectrogram Loss ($\mathcal{L}_{mel}$)
+		- Mel-Spectrogram Loss ($\mathcal{L}_{mel}$) #[[Spectrogram Loss]]
 			- ${||M_s-M_{\tilde{s}}||}_1$
-		- Feature Matching Loss ($\mathcal{L}_{FM}^{(k)}$)
+			- 有助於提早穩定 GAN 的訓練
+		- [[Feature Matching Loss]] ($\mathcal{L}_{FM}^{(k)}$)
 			- $\sum_{i=1}^L \frac{1}{N_i} {||D_k^{(i)}(s)-D_k^{(i)}(\tilde{s})||}_1$
 			- $D_k^{(i)}$ 表示 $D_k$ 的 i-th layer 抽取的 features，期望能讓語音在特徵的層次上相似。
 			- $L$ 表示 Discriminator 的層數

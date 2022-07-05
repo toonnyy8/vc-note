@@ -1,4 +1,18 @@
+- [source link](https://github.com/sony/ai-research-code/tree/master/nvcnet)
 - [paper link](https://arxiv.org/abs/2106.00992)
 - ![2022-07-05-22-13-43.jpeg](../assets/2022-07-05-22-13-43.jpeg)
-- ![2022-07-05-22-13-53.jpeg](../assets/2022-07-05-22-13-53.jpeg)
--
+	- $D^{(k)}$: 通過 k-1 次 window size=4, stride=2 的 average pooling
+		- 有三個 Discriminator 的輸入具有不同的時間解析度。
+- Loss
+	- Adversarial Loss
+		- 為了確保有轉換到 target speaker 的聲音
+	- [[Feature Matching Loss]]
+	- [[Spectrogram Loss]]
+	- Content Preservation Loss
+		- ${||E_c(x)-E_c(G(E_c(x),z))||}_2^2$
+		- $x$ 是輸入的原始語音，$\tilde{z}$ 是 target speaker 的 embedding
+		- 期望 content feature 相同 $\Rightarrow$ 語音內容不變
+- ![2022-07-05-22-13-53.jpeg](../assets/2022-07-05-22-13-53.jpeg){:height 250, :width 776}
+	- NVC-Net$^{\dag}$ 使用 one hot encoder 原本的 speaker embeddings
+- 問題
+	- 要如何確保 content encoder 確實只有內容資訊呢？
