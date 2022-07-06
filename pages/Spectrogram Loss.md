@@ -1,3 +1,3 @@
 - $loss(M_s,M_{\tilde{s}})$
-- $M_*$ 表示語音訊號 * 的 spectrogram，像是 log-spectrogram, Mel-spectrogram 等等
+- $M_*$ 表示語音訊號 * 的 Mel-spectrogram
 - loss 表示計算兩者的差，像是 $\ell1~norm$, $\ell2~norm$ 等等

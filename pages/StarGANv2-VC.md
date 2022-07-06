@@ -1,0 +1,2 @@
+- [source link](https://github.com/yl4579/StarGANv2-VC)
+- [paper link](https://arxiv.org/abs/2107.10394)

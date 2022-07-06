@@ -1,0 +1,3 @@
+- $\mathbb{D}_{KL}(\mathcal{N}(\mu_x,\sigma_x)||\mathcal{N}(\mathbf{0},\mathbf{I}))$
+	- $x$ 表示某個 speaker 的 voice
+	- $\mu_x$ 與 $\sigma_x$ 表示從 speaker encoder 計算出來的 speaker latent space

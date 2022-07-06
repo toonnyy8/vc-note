@@ -44,7 +44,8 @@
 			- $\lambda_{mel}=45$
 - Experiments
   collapsed:: true
-	- ![2022-07-05-19-18-24.jpeg](../assets/2022-07-05-19-18-24.jpeg)
+	- Dataset #LJSpeech
+	- ![2022-07-05-19-18-24.jpeg](../assets/2022-07-05-19-18-24.jpeg){:height 303, :width 746}
 		- 依據生成品質與速度分成 V1, V2 and V3 三種版本
 	- ![2022-07-05-19-18-54.jpeg](../assets/2022-07-05-19-18-54.jpeg)
 		- 重要性：MPD > Mel-spectrogram Loss > MSD > MRF

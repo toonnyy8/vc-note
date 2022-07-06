@@ -2,3 +2,4 @@
 - 使用 speaker table 儲存 speaker 的 style vector
 - 使用 pretrained ASR 模型抽取 source voice 的內容特徵
 - 額外在加入 source voice pitch
+- Dataset #VCTK #LibriTTS #VCC2018
