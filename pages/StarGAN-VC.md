@@ -1,0 +1,4 @@
+- [source link 1](https://github.com/hujinsen/pytorch-StarGAN-VC)
+- [source link 2](https://github.com/liusongxiang/StarGAN-Voice-Conversion)
+- [paper link](https://arxiv.org/abs/1806.02169)
+- next version #[[StarGAN-VC2]] #[[StarGANv2-VC]]

@@ -1,0 +1,2 @@
+- [source link](https://github.com/SamuelBroughton/StarGAN-Voice-Conversion-2)
+- [paper link](https://arxiv.org/abs/1907.12279)

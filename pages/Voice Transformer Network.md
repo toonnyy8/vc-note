@@ -1,0 +1,2 @@
+- [paper link](https://arxiv.org/abs/1912.06813)
+- next version #[[Many-to-Many Voice Transformer Network]]

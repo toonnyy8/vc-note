@@ -1,19 +1,23 @@
 - [source link](https://github.com/sony/ai-research-code/tree/master/nvcnet)
 - [paper link](https://arxiv.org/abs/2106.00992)
 - Design Goals
+  collapsed:: true
 	- reconstructing highly-perceptually-similar audio waveform from latent embeddings.
 	- preserving the speaker-invariant information during the conversion.
 	- generating high-fidelity audio for a target speaker.
-- 不用 vocoder
 - ![2022-07-05-22-13-43.jpeg](../assets/2022-07-05-22-13-43.jpeg)
 	- $D^{(k)}$: 通過 k-1 次 window size=4, stride=2 的 average pooling
 		- 有三個 Discriminator 的輸入具有不同的時間解析度。
+	- 不用 vocoder
+	- $E_c(x)$ 取得 utterance $x$ 的 content features
+	- $E_s(\tilde{x})$ 從 utterance $\tilde{x}$ 取得 speaker $\tilde{y}$ 的 speaker embedding $\tilde{z}$
 - Symbol
 	- $x$ 是第 $y$ 個 speaker 的語音
 		- $c$ 表示 $E_c$ 從 $x$ 抽取的 content feature
 	- $\tilde{x}$ 是第 $\tilde{y}$ 個 speaker 的語音
 		- $\tilde{z}$ 表示 $E_s$ 從 $\tilde{x}$ 抽取的 speaker embedding
 - Loss
+  collapsed:: true
 	- Adversarial Loss
 		- 為了確保有轉換到 target speaker 的聲音，Discriminator 會判別 $Y$ 個 class, $Y$ 代表 train dataset speaker 的數量
 			- 用於判斷轉換的語音是否與目標 speaker 相似
@@ -45,7 +49,7 @@
 		- Tab 2. 分別在 Content 與 Speaker embedding 上訓練 speaker identification classifier
 			- 發現在 Content 上的分類結果不好 $\Rightarrow$ 確實有將 content 與 speaker information 分離
 		- Tab 3.
-			- NVC-Net 比 [[StarGANv2-VC]] 與 [[AutoVC]]（兩者皆可搭配 vocoder 使用）更快，
+			- NVC-Net 比 [[StarGAN-VC2]] 與 [[AutoVC]]（兩者皆可搭配 vocoder 使用）更快，
 			- 也比同樣沒有 vocoder 的 [[Blow]] 更快更小
 			- 比 [[WaveGlow]] 論文中的速度快 7x 倍
 	- ![2022-07-06-14-46-32.jpeg](../assets/2022-07-06-14-46-32.jpeg)
