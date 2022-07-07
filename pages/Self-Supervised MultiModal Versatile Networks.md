@@ -1,3 +1,6 @@
 - [paper link](https://proceedings.neurips.cc/paper/2020/hash/0060ef47b12160b9198302ebdb144dcf-Abstract.html)
--
-- Dataset #HowTo100M #AudioSet
+- ![2022-07-07-20-05-38.jpeg](../assets/2022-07-07-20-05-38.jpeg)
+- [[MIL-NCE]]
+- Experiments
+	- Train dataset #HowTo100M #AudioSet
+	- downstream
