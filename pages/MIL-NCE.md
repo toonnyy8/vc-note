@@ -1,7 +1,7 @@
 - [paper link](https://arxiv.org/abs/1912.06430)
 - $-log\Biggl(\cfrac{\sum_{y\in\mathcal{P}_x}e^{f(x)^{\top}g(y)/\tau}}{\sum_{y\in\mathcal{P}_x}e^{f(x)^{\top}g(y)/\tau}+\sum_{y'\in\mathcal{N}_x}e^{f(x)^{\top}g(y')/\tau}}\Biggr)$
-	- $x$ 與 $y$, $y'$ 是不同類型的資料 e.g. image & text
-		- $f$ 與 $g$ 則是抽取兩種資料特徵的模型
+	- 原版 [[NCE]] 中每個樣本集合只使用一個正樣本，
+		- MIL-NCE 用在解決正樣本不止一個情況（一個 $x$ 不只配對一個 $y$）
+			- 一次就將 $x$ 所有的正樣本 $\mathcal{P}_x$ 考量進去
 		- $\mathcal{P}_x$ 表示 $x$ 的正樣本 $y$ 的集合
 		- $\mathcal{N}_x$ 表示 $x$ 的負樣本 $y'$ 的集合
-	- 用在解決正樣本不止一個情況（一個 $x$ 不只配對一個 $y$），一次就將 $x$ 所有的正樣本 $\mathcal{P}_x$ 考量進去

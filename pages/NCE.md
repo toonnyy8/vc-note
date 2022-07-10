@@ -1,0 +1,12 @@
+- $-log\Biggl(\cfrac{e^{f(x)^{\top}g(y)/\tau}}{e^{f(x)^{\top}g(y)/\tau}+\sum_{y'\in\mathcal{N}_x}e^{f(x)^{\top}g(y')/\tau}}\Biggr)$
+	- $y$ 是 $x$ 的正樣本
+		- $\mathcal{N}_x$ 表示 $x$ 的負樣本 $y'$ 的集合
+	- $f$ 與 $g$ 則是兩個抽取資料特徵的模型
+		- 在 momentum based 方法中（e.g. MoCo, BYOL ＆ DINO）
+			- $f$ & $g$ 是如同 student & teacher 的同樣結構、不同參數的模型
+		- 在 MultiModal 的任務中（e.g. image & text）
+			- $f$ & $g$ 是抽取不同型態特徵的模型
+		- 此外，像是 SimCLR, SimSiam, SwAV 等等方法
+			- $f$ & $g$ 是相同的模型（參數也相同）
+		- **註：以上所提及的方法並非全都使用 NCE Loss**
+	- 更多資訊請搜尋 Self Supervised Learning
