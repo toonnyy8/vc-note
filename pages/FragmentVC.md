@@ -1,2 +1,14 @@
 - [source link](https://www.google.com/url?sa=t&source=web&rct=j&url=https://github.com/yistLin/FragmentVC&ved=2ahUKEwiSlYTd_-H4AhU0gFYBHZbLBNcQFnoECA0QAQ&usg=AOvVaw3C6kVNoiZzY9pukk8mwcJ2)
 - [paper link](https://arxiv.org/abs/2010.14150)
+- ![2022-07-12-17-24-06.jpeg](../assets/2022-07-12-17-24-06.jpeg){:width 600}
+	- ![2022-07-12-17-24-45.jpeg](../assets/2022-07-12-17-24-45.jpeg){:width 700}
+		- a
+	- Two-stage training
+- ![2022-07-12-17-58-22.jpeg](../assets/2022-07-12-17-58-22.jpeg){:width 1100}
+	- **SV** speaker verification (SV)
+		- https://github.com/resemble-ai/Resemblyzer
+- ![2022-07-12-17-53-25.jpeg](../assets/2022-07-12-17-53-25.jpeg){:width 600}
+	- **Sim.** similar
+	  **Nat.** natural
+	- 使用了 second stage training 的方法具有比較高的語音品質
+		- 但相對的其轉換後與目標語者的相似度下降了

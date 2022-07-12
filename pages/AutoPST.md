@@ -1,5 +1,7 @@
 - [source link](https://github.com/auspicious3000/AutoPST)
 - [paper link](https://arxiv.org/abs/2106.08519)
+- [demo](https://auspicious3000.github.io/AutoPST-Demo/)
+	- 想法有趣，但在語音品質的部分有改善空間
 - 目標
 	- 更好的抽取韻律、節奏進行 VC
 	- 提出基於 Autoencoder 的 **P**rosody **S**tyle **T**ransfer framework
@@ -10,4 +12,5 @@
 - ![2022-07-10-21-10-06.jpeg](../assets/2022-07-10-21-10-06.jpeg){:height 459, :width 481}
 - ![2022-07-10-21-10-22.jpeg](../assets/2022-07-10-21-10-22.jpeg){:height 207, :width 776}
 - ![2022-07-10-21-10-34.jpeg](../assets/2022-07-10-21-10-34.jpeg){:height 574, :width 776}
--
+- ![2022-07-12-16-41-21.jpeg](../assets/2022-07-12-16-41-21.jpeg){:height 867, :width 776}
+	- 不同的 threshold 對語速會有不同的影響
