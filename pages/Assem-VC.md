@@ -1,0 +1,4 @@
+- [source code](https://github.com/mindslab-ai/assem-vc)
+- [paper link](https://arxiv.org/abs/2104.00931)
+- [demo](https://mindslab-ai.github.io/assem-vc/)
+- ![2022-07-20-23-31-29.jpeg](../assets/2022-07-20-23-31-29.jpeg)

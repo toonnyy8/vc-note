@@ -1,0 +1,4 @@
+- [source code](https://github.com/mindslab-ai/cotatron)
+- [paper link](https://arxiv.org/abs/2005.03295)
+- [demo](https://mindslab-ai.github.io/cotatron/)
+- ![2022-07-20-23-40-47.jpeg](../assets/2022-07-20-23-40-47.jpeg)
