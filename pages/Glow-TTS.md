@@ -1,0 +1,3 @@
+- [source link](https://github.com/jaywalnut310/glow-tts)
+- [paper link](https://arxiv.org/abs/2005.11129)
+- [demo](https://jaywalnut310.github.io/glow-tts-demo/index.html)

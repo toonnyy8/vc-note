@@ -1,0 +1,3 @@
+- [source link](https://github.com/MoonInTheRiver/NeuralSVB)
+- [paper link](https://arxiv.org/abs/2202.13277)
+- [demo](https://neuralsvb.github.io/)

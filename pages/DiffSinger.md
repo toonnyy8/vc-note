@@ -1,0 +1,3 @@
+- [source link](https://github.com/keonlee9420/DiffSinger)
+- [paper link](https://arxiv.org/abs/2105.02446)
+- [demo](https://diffsinger.github.io/)
