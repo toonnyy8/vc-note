@@ -1,6 +1,6 @@
 - [source link](https://github.com/sony/ai-research-code/tree/master/nvcnet)
 - [paper link](https://arxiv.org/abs/2106.00992)
-- #Autoencoder-Based #GAN-Based
+- #AutoEncoder-Based #GAN-Based
 - Design Goals
   collapsed:: true
 	- reconstructing highly-perceptually-similar audio waveform from latent embeddings.
@@ -45,7 +45,7 @@
 			- 越高代表 VC 的性能越好（能成功欺騙分類器）
 			- real speech 的分類正確率是 99.34%
 	- ![2022-07-06-14-46-02.jpeg](../assets/2022-07-06-14-46-02.jpeg)
-		- [[AutoVC]] 的 speaker encoder 在有 3,549 speakers 的超大型資料集上預訓練 ([[VoxCeleb1]] + [[Librispeech]])，因此在 unseen speaker 上會具有更好的性能 (更多資料具有更高的泛化性)
+		- [[AutoVC]] 的 speaker encoder 在有 3,549 speakers 的超大型資料集上預訓練 ([[VoxCeleb1]] + [[LibriSpeech]])，因此在 unseen speaker 上會具有更好的性能 (更多資料具有更高的泛化性)
 	- ![2022-07-06-14-46-16.jpeg](../assets/2022-07-06-14-46-16.jpeg)
 		- Tab 2. 分別在 Content 與 Speaker embedding 上訓練 speaker identification classifier
 			- 發現在 Content 上的分類結果不好 $\Rightarrow$ 確實有將 content 與 speaker information 分離

@@ -1,0 +1,2 @@
+- [Evaluating speech features with the Minimal-Pair ABX task: Analysis of the classical MFC/PLP pipeline](https://hal.archives-ouvertes.fr/hal-00918599)
+- [Evaluating speech features with the Minimal-Pair ABX task (II): Resistance to noise](https://www.semanticscholar.org/paper/Evaluating-speech-features-with-the-minimal-pair-to-Schatz-Peddinti/b142e1c11171f3387451c01bf07e8ca662208a16)

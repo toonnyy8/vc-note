@@ -201,8 +201,11 @@
  :ref/linked-references-collapsed-threshold 50
 
  :favorites ["How to take dummy notes?"]
- :mobile/toolbar-stats {:bold {:counts 1}, :brand-youtube {:counts 0}, :checkbox {:counts 10}, :parentheses {:counts 0}, :command {:counts 2}, :calendar {:counts 2}, :paint {:counts 1}, :list {:counts 0}, :link {:counts 18}, :strikethrough {:counts 0}, :code {:counts 0}, :camera {:counts 34}, :rotate {:counts 0}, :tag {:counts 0}, :brackets {:counts 0}, :italic {:counts 0}, :a-b {:counts 3}, :rotate-clockwise {:counts 0}}
+ :mobile/toolbar-stats {:bold {:counts 1}, :brand-youtube {:counts 0}, :checkbox {:counts 10}, :parentheses {:counts 0}, :command {:counts 2}, :calendar {:counts 2}, :paint {:counts 1}, :list {:counts 0}, :link {:counts 18}, :strikethrough {:counts 0}, :code {:counts 0}, :camera {:counts 38}, :rotate {:counts 0}, :tag {:counts 0}, :brackets {:counts 0}, :italic {:counts 0}, :a-b {:counts 3}, :rotate-clockwise {:counts 0}}
  :graph/settings {:builtin-pages? false, :orphan-pages? true}
+ :feature/enable-journals? true
+ :default-home {:page "VC Introduction"}
+ :ui/show-brackets? false
 
  ;; any number between 0 and 1 (the greater it is the faster the changes of the next-interval of card reviews) (default 0.5)
  ;; :srs/learning-fraction 0.5

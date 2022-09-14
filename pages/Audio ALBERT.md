@@ -1,0 +1,1 @@
+- [Audio ALBERT: A Lite BERT for Self-supervised Learning of Audio Representation](https://arxiv.org/abs/2005.08575)

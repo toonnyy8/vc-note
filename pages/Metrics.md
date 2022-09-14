@@ -1,0 +1,13 @@
+- ## Naturalness/Quality
+- ## Similarity
+- 用 ASR 檢測 content 的正確性
+	- 需要文本
+- 用 PCC 檢測轉換前後的 pitch 有沒有保持一致
+- 也許能用 ASR 的 PPL 作為檢測語音質量的方法
+- [MBNet: MOS Prediction for Synthesized Speech with Mean-Bias Network](https://arxiv.org/abs/2103.00110)
+- [MOSNet: Deep Learning based Objective Assessment for Voice Conversion](https://arxiv.org/abs/1904.08352)
+- 語者驗證來評估轉換是否成功轉換 timbre
+- Rhythm 可以用 ASR 工具為每個 frame 標記音素後計算與 target 的編輯距離
+- 如何檢測 pitch 轉換
+- ABX #ABX
+	- evaluation metric for unsupervised representation learning.

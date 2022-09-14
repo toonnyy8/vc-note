@@ -1,0 +1,2 @@
+- [paper link](https://arxiv.org/abs/2106.06103)
+- [source link](https://github.com/jaywalnut310/vits)

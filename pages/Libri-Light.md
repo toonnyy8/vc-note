@@ -1,0 +1,4 @@
+- [github](https://github.com/facebookresearch/libri-light)
+- [blog](https://ai.facebook.com/tools/libri-light/)
+- [arxiv](https://arxiv.org/abs/1912.07875)
+- 總之就是超級大
