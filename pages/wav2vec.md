@@ -1,3 +1,8 @@
-- ![2022-09-10-18-31-09.jpeg](../assets/2022-09-10-18-31-09.jpeg)
+- ## Info
+	- tag: #SSL
+	- [wav2vec: Unsupervised Pre-training for Speech Recognition](https://arxiv.org/abs/1904.05862)
+	- [source link](https://github.com/facebookresearch/fairseq/blob/main/examples/wav2vec/README.md)
+	- next version: #vq-wav2vec
+- ![2022-09-10-18-31-09.jpeg](../assets/2022-09-10-18-31-09.jpeg){:height 397, :width 828}
 	- $\mathcal{L}_k=-\sum_{i=1}^{T-k}\Big(\text{log}\,\sigma(z_{i+k}^{\top}h_k(c_i))+\underset{\tilde{z}\sim p_n}{\lambda\mathbb{E}}[\text{log}\,\sigma(-\tilde{z}^{\top}h_k(c_i))]\Big)$
 		- $h_k(c_i)=W_k c_i+b_k$

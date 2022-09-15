@@ -1,0 +1,6 @@
+- ## Info
+	- tag: #SSL
+	- [vq-wav2vec: Self-Supervised Learning of Discrete Speech Representations](https://openreview.net/forum?id=rylwJxrYDS)
+	- [source link](https://github.com/facebookresearch/fairseq/blob/main/examples/wav2vec/README.md)
+	- previous version: #wav2vec
+	- next version: #[[wav2vec 2.0]]

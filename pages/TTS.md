@@ -6,3 +6,6 @@
 - LATER [[DiffSinger]]
 - LATER [[Guided-TTS 2]]
 - LATER [[PortaSpeech]]
+- LATER [[GAN-TTS]]
+- LATER [[CHiVE]]
+- LATER [[Style Tokens]]

@@ -1,7 +1,7 @@
 - DONE [[CPC]]
 - LATER [[wav2vec]]
 - LATER [[vq-wav2vec]]
-- LATER [[wav2vec2]]
+- LATER [[wav2vec 2.0]]
 - LATER [[Self-Expressing Autoencoder]]
 - LATER [[Audio ALBERT]]
 - LATER [[Mockingjay]]

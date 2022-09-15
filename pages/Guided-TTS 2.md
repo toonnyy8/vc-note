@@ -1,2 +1,3 @@
+- tag: #TTS #[[Diffusion-Based]]
 - [paper link](https://arxiv.org/abs/2205.15370)
 - previous version: #[[Guided-TTS]]

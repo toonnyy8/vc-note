@@ -3,8 +3,10 @@
 - ## ASR-Based #[[ASR-Based]]
 - ## GAN-Based #[[GAN-Based]]
 - ## Attention-Based #[[Attention-Based]]
+- ## Diffusion-Based #[[Diffusion-Based]]
 - ## TTS #TTS
 - ## Other Task #[[Other Task]]
 - ## Loss #Loss
 - ## Metrics #Metrics
 - ## Datasets #Datasets
+- [[template]]
