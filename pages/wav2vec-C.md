@@ -1,0 +1,6 @@
+- ## Info
+	- tag: #SSL
+	- [paper link]()
+	- [source link]()
+	- [demo]()
+	- previous version: #[[wav2vec 2.0]]

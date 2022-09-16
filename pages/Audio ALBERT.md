@@ -1,1 +1,7 @@
-- [Audio ALBERT: A Lite BERT for Self-supervised Learning of Audio Representation](https://arxiv.org/abs/2005.08575)
+- ## Info
+	- tag: #SSL
+	- [Audio ALBERT: A Lite BERT for Self-supervised Learning of Audio Representation](https://arxiv.org/abs/2005.08575)
+	- [source link]()
+	- [demo]()
+	- previous version:
+	- next version:

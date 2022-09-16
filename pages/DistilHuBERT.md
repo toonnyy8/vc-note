@@ -1,0 +1,6 @@
+- ## Info
+	- tag: SSL
+	- [paper link]()
+	- [source link]()
+	- [demo]()
+	- previous version: #HuBERT

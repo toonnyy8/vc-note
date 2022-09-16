@@ -40,7 +40,7 @@
   :block/updated-at 1663221401473}
  {:block/name "autoencoder-based",
   :block/created-at 1663221403358,
-  :block/updated-at 1663221403358}
+  :block/updated-at 1663237239736}
  {:block/name "autopst",
   :block/created-at 1663221402204,
   :block/updated-at 1663221402204}
@@ -113,9 +113,6 @@
   "diffusion-based voice conversion with fast maximum likelihood sampling scheme",
   :block/created-at 1663221402438,
   :block/updated-at 1663221402438}
- {:block/name "dl introduction",
-  :block/created-at 1663221400971,
-  :block/updated-at 1663221400971}
  {:block/name "doing",
   :block/created-at 1663221513393,
   :block/updated-at 1663221513393}
@@ -380,6 +377,12 @@
  {:block/name "vqmivc",
   :block/created-at 1663221403403,
   :block/updated-at 1663221403403}
+ {:block/name "vqvc",
+  :block/created-at 1663237015876,
+  :block/updated-at 1663237015876}
+ {:block/name "vqvc+",
+  :block/created-at 1663237024263,
+  :block/updated-at 1663237024263}
  {:block/name "wait",
   :block/created-at 1663221513392,
   :block/updated-at 1663221513392}
@@ -390,14 +393,11 @@
   :block/created-at 1663221403466,
   :block/updated-at 1663221403466}
  {:block/name "wav2vec 2",
-  :block/created-at 1663221404239,
-  :block/updated-at 1663221404239}
+  :block/created-at 1663237795143,
+  :block/updated-at 1663237795143}
  {:block/name "wav2vec 2.0",
   :block/created-at 1663221403467,
-  :block/updated-at 1663221403467}
- {:block/name "wav2vec 2/0",
-  :block/created-at 1663221404236,
-  :block/updated-at 1663221404236}
+  :block/updated-at 1663237815954}
  {:block/name "waveglow",
   :block/created-at 1663221403425, 
   :block/updated-at 1663221403425}]

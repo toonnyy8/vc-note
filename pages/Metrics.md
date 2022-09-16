@@ -5,6 +5,8 @@
 - ## Objective
 	- 用 ASR 檢測 content 的正確性
 		- 需要文本
+		- {Word, Phoneme, Character, Letter, Sentence} Error Rate
+			- Character 除了 Letter 外還涵蓋了其他的 symbol
 	- 用 PCC 檢測轉換前後的 pitch 有沒有保持一致
 	- 也許能用 ASR 的 PPL 作為檢測語音質量的方法
 	- [MBNet: MOS Prediction for Synthesized Speech with Mean-Bias Network](https://arxiv.org/abs/2103.00110)

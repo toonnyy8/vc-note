@@ -1,4 +1,6 @@
-- [Representation Learning with Contrastive Predictive Coding](https://arxiv.org/abs/1807.03748)
+- ## Info
+	- tag: #SSL
+	- [Representation Learning with Contrastive Predictive Coding](https://arxiv.org/abs/1807.03748)
 - ![2022-09-10-17-12-30.jpeg](../assets/2022-09-10-17-12-30.jpeg){:height 440, :width 828}
 	- $g_{ar}$: autoregression model, GRU RNN.
 	- $g_{enc}$: a non-linear encoder $g_{enc}$ maps the input sequence of observations $x_{t}$ to a sequence of latent representations $z_{t}$, strided CNN.
@@ -8,6 +10,12 @@
 	- $X$ 是由 1 個正樣本 $x_{t+k}$ 與 $N-1$ 個負樣本組成的集合。
 	- 通過 linear transformation $W_k$ 將 $c_t$ 映射至時間段 ${t+k}$（正樣本），期望能與該時間段對應的 $z_{t+k}$ 越相似越好。
 - ## Experiments
+  > 此處只記錄 Audio 的實驗
+	- ### Dataset
+		- [[LibriSpeech]] 100h 的子集
+			- 使用 Kaldi toolkit 與在 LibriSpeech 上預訓練的模型 [[1](www.kaldi-asr.org/downloads/build/6/trunk/egs/librispeech/)] 取得對齊的音素標籤。
+			- 拆分好的 train/test 以及音素標籤可在此取得 [[2](https://drive.google.com/drive/folders/1BhJ2umKH3whguxMwifaKtSra0TgAbtfb)]。
+			- 總共有 251 名不同的語者。
 	- ![2022-09-10-17-36-06.jpeg](../assets/2022-09-10-17-36-06.jpeg){width 350}
 		- Random initialization: $g_{enc}$ 與 $g_{ar}$ 沒有經過訓練
 		- CPC 與 Supervised 都使用 $g_{ar}$ 的輸出 $c_t$ 並通過線性分類器進行預測，

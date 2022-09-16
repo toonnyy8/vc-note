@@ -1,1 +1,7 @@
-- [paper link](https://www.isca-speech.org/archive/interspeech_2020/bhati20_interspeech.html)
+- ## Info
+	- tag: #SSL
+	- [Self-Expressing Autoencoders for Unsupervised Spoken Term Discovery](https://www.isca-speech.org/archive/interspeech_2020/bhati20_interspeech.html)
+	- [source link]()
+	- [demo]()
+	- previous version:
+	- next version:
