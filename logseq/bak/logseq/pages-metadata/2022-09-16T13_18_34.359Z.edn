@@ -1,22 +1,4 @@
-[{:block/name "1www.kaldi-asr.org",
-  :block/created-at 1663251044247,
-  :block/updated-at 1663251044247}
- {:block/name "1www.kaldi-asr.org/downloads",
-  :block/created-at 1663251044249,
-  :block/updated-at 1663251044249}
- {:block/name "1www.kaldi-asr.org/downloads/build",
-  :block/created-at 1663251044250,
-  :block/updated-at 1663251044250}
- {:block/name "1www.kaldi-asr.org/downloads/build/6",
-  :block/created-at 1663251044252,
-  :block/updated-at 1663251044252}
- {:block/name "1www.kaldi-asr.org/downloads/build/6/trunk",
-  :block/created-at 1663251044254,
-  :block/updated-at 1663251044254}
- {:block/name "1www.kaldi-asr.org/downloads/build/6/trunk/egs",
-  :block/created-at 1663251044256,
-  :block/updated-at 1663251044256}
- {:block/name "a",
+[{:block/name "a",
   :block/created-at 1663221513393,
   :block/updated-at 1663221513393}
  {:block/name "abx",
@@ -46,7 +28,7 @@
   :block/updated-at 1663221402114}
  {:block/name "audio albert",
   :block/created-at 1663221403069,
-  :block/updated-at 1663249911950}
+  :block/updated-at 1663221403069}
  {:block/name "audioset",
   :block/created-at 1663221403122,
   :block/updated-at 1663221403122}
@@ -271,7 +253,7 @@
   :block/updated-at 1663221403414}
  {:block/name "metrics",
   :block/created-at 1663221403366,
-  :block/updated-at 1663249161042}
+  :block/updated-at 1663221403366}
  {:block/name "mil-nce",
   :block/created-at 1663221403116,
   :block/updated-at 1663221403116}
@@ -311,16 +293,13 @@
   :block/updated-at 1663221403039}
  {:block/name "self-expressing autoencoder",
   :block/created-at 1663221403086,
-  :block/updated-at 1663249974296}
+  :block/updated-at 1663221403086}
  {:block/name "self-supervised multimodal versatile networks",
   :block/created-at 1663221403127,
   :block/updated-at 1663322005971}
  {:block/name "sep 10th, 2022",
   :block/created-at 1663221401326,
   :block/updated-at 1663221401326}
- {:block/name "sep 15th, 2022",
-  :block/created-at 1663221401196,
-  :block/updated-at 1663221401196}
  {:block/name "sep 16th, 2022",
   :block/created-at 1663305695675,
   :block/updated-at 1663305695675}
@@ -448,23 +427,5 @@
   :block/created-at 1663305696273,
   :block/updated-at 1663305696273}
  {:block/name "waveglow",
-  :block/created-at 1663221403425,
-  :block/updated-at 1663221403425}
- {:block/name "www.kaldi-asr.org",
-  :block/created-at 1663251046407,
-  :block/updated-at 1663334194826}
- {:block/name "www.kaldi-asr.org/downloads",
-  :block/created-at 1663251046409,
-  :block/updated-at 1663251046409}
- {:block/name "www.kaldi-asr.org/downloads/build",
-  :block/created-at 1663251046411,
-  :block/updated-at 1663251046411}
- {:block/name "www.kaldi-asr.org/downloads/build/6",
-  :block/created-at 1663251046413,
-  :block/updated-at 1663251046413}
- {:block/name "www.kaldi-asr.org/downloads/build/6/trunk",
-  :block/created-at 1663251046414,
-  :block/updated-at 1663251046414}
- {:block/name "www.kaldi-asr.org/downloads/build/6/trunk/egs",
-  :block/created-at 1663251046416, 
-  :block/updated-at 1663251046416}]
+  :block/created-at 1663221403425, 
+  :block/updated-at 1663221403425}]
