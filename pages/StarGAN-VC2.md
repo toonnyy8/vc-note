@@ -1,2 +1,6 @@
-- [source link](https://github.com/SamuelBroughton/StarGAN-Voice-Conversion-2)
-- [paper link](https://arxiv.org/abs/1907.12279)
+- ## Info
+	- tag: #GAN-Based
+	- [StarGAN-VC2: Rethinking Conditional Methods for StarGAN-Based Voice Conversion](https://arxiv.org/abs/1907.12279)
+	- [source link](https://github.com/SamuelBroughton/StarGAN-Voice-Conversion-2)
+	- previous version: #StarGAN-VC
+	- next version: #[[StarGANv2-VC]]
