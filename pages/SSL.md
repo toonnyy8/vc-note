@@ -1,3 +1,4 @@
+- LATER [[Self-Supervised MultiModal Versatile Networks]]
 - DONE [[CPC]]
 - LATER [[wav2vec]]
 - LATER [[vq-wav2vec]]

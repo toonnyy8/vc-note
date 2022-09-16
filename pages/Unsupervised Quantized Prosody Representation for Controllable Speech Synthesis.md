@@ -1,0 +1,3 @@
+- ## Info
+	- tag: #TTS
+	- [Unsupervised Quantized Prosody Representation for Controllable Speech Synthesis](https://arxiv.org/abs/2204.03238)

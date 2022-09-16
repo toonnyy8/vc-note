@@ -9,3 +9,6 @@
 - LATER [[GAN-TTS]]
 - LATER [[CHiVE]]
 - LATER [[Style Tokens]]
+- LATER [[STYLER]]
+- LATER [[Unsupervised Quantized Prosody Representation for Controllable Speech Synthesis]]
+-

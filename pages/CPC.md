@@ -13,7 +13,7 @@
   > 此處只記錄 Audio 的實驗
 	- ### Dataset
 		- [[LibriSpeech]] 100h 的子集
-			- 使用 Kaldi toolkit 與在 LibriSpeech 上預訓練的模型 [[1](www.kaldi-asr.org/downloads/build/6/trunk/egs/librispeech/)] 取得對齊的音素標籤。
+			- 使用 Kaldi toolkit 與在 LibriSpeech 上預訓練的模型 [[1](https://www.kaldi-asr.org/downloads/build/6/trunk/egs/librispeech/)] 取得對齊的音素標籤。
 			- 拆分好的 train/test 以及音素標籤可在此取得 [[2](https://drive.google.com/drive/folders/1BhJ2umKH3whguxMwifaKtSra0TgAbtfb)]。
 			- 總共有 251 名不同的語者。
 	- ![2022-09-10-17-36-06.jpeg](../assets/2022-09-10-17-36-06.jpeg){width 350}

@@ -1,1 +1,5 @@
-- [paper link](https://arxiv.org/abs/2103.16809)
+- ## Info
+	- tag: #ASR-Based #AutoEncoder-Based
+	- [Limited Data Emotional Voice Conversion Leveraging Text-to-Speech: Two-stage Sequence-to-Sequence Training](https://arxiv.org/abs/2103.16809)
+	- [source link](https://github.com/KunZhou9646/seq2seq-EVC)
+	- previous version: #[[Seq2seqVC]]

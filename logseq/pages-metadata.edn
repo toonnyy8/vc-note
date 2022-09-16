@@ -93,7 +93,7 @@
   :block/updated-at 1663221402342}
  {:block/name "cpc",
   :block/created-at 1663221403055,
-  :block/updated-at 1663221403055}
+  :block/updated-at 1663321553962}
  {:block/name "datasets",
   :block/created-at 1663221403368,
   :block/updated-at 1663221403368}
@@ -113,6 +113,9 @@
   "diffusion-based voice conversion with fast maximum likelihood sampling scheme",
   :block/created-at 1663221402438,
   :block/updated-at 1663221402438}
+ {:block/name "distilhubert",
+  :block/created-at 1663305696277,
+  :block/updated-at 1663305696277}
  {:block/name "doing",
   :block/created-at 1663221513393,
   :block/updated-at 1663221513393}
@@ -152,6 +155,9 @@
  {:block/name "gan-tts",
   :block/created-at 1663221403297,
   :block/updated-at 1663221403297}
+ {:block/name "global style tokens",
+  :block/created-at 1663320850101,
+  :block/updated-at 1663320850101}
  {:block/name "glow-tts",
   :block/created-at 1663221403283,
   :block/updated-at 1663221403283}
@@ -176,6 +182,9 @@
  {:block/name "howto100m",
   :block/created-at 1663221403120,
   :block/updated-at 1663221403120}
+ {:block/name "hubert",
+  :block/created-at 1663305696276,
+  :block/updated-at 1663305696276}
  {:block/name "in-progress",
   :block/created-at 1663221513393,
   :block/updated-at 1663221513393}
@@ -287,13 +296,13 @@
   :block/updated-at 1663221403086}
  {:block/name "self-supervised multimodal versatile networks",
   :block/created-at 1663221403127,
-  :block/updated-at 1663221403127}
+  :block/updated-at 1663322005971}
  {:block/name "sep 10th, 2022",
   :block/created-at 1663221401326,
   :block/updated-at 1663221401326}
- {:block/name "sep 15th, 2022",
-  :block/created-at 1663221401196,
-  :block/updated-at 1663221401196}
+ {:block/name "sep 16th, 2022",
+  :block/created-at 1663305695675,
+  :block/updated-at 1663305695675}
  {:block/name "sep 1st, 2022",
   :block/created-at 1663221401424,
   :block/updated-at 1663221401424}
@@ -305,7 +314,10 @@
   :block/updated-at 1663221401363}
  {:block/name "seq2seqevc-wa2",
   :block/created-at 1663221403137,
-  :block/updated-at 1663221403137}
+  :block/updated-at 1663322710460}
+ {:block/name "seq2seqvc",
+  :block/created-at 1663322482907,
+  :block/updated-at 1663322684776}
  {:block/name "speaker kl loss",
   :block/created-at 1663221403149,
   :block/updated-at 1663221403149}
@@ -320,7 +332,7 @@
   :block/updated-at 1663221403172}
  {:block/name "ssl",
   :block/created-at 1663221403464,
-  :block/updated-at 1663221403464}
+  :block/updated-at 1663322034380}
  {:block/name "stargan-vc",
   :block/created-at 1663221403201,
   :block/updated-at 1663221403201}
@@ -332,7 +344,10 @@
   :block/updated-at 1663221403223}
  {:block/name "style tokens",
   :block/created-at 1663221403301,
-  :block/updated-at 1663221403301}
+  :block/updated-at 1663321458094}
+ {:block/name "styler",
+  :block/created-at 1663320084214,
+  :block/updated-at 1663320167230}
  {:block/name "template",
   :block/created-at 1663221403443,
   :block/updated-at 1663221403443}
@@ -345,13 +360,20 @@
   :block/updated-at 1663221403314}
  {:block/name "tts",
   :block/created-at 1663221403363,
-  :block/updated-at 1663221403363}
+  :block/updated-at 1663320713985}
  {:block/name "tts-skins",
   :block/created-at 1663221403258,
   :block/updated-at 1663221403258}
+ {:block/name "uaspeech",
+  :block/created-at 1663307318364,
+  :block/updated-at 1663307318364}
  {:block/name "ucf101",
   :block/created-at 1663221403125,
   :block/updated-at 1663221403125}
+ {:block/name
+  "unsupervised quantized prosody representation for controllable speech synthesis",
+  :block/created-at 1663320713984,
+  :block/updated-at 1663320759137}
  {:block/name
   "unsupervised speech representation learning using wavenet autoencoders",
   :block/created-at 1663221403330,
@@ -398,6 +420,12 @@
  {:block/name "wav2vec 2.0",
   :block/created-at 1663221403467,
   :block/updated-at 1663237815954}
+ {:block/name "wav2vec 2/0",
+  :block/created-at 1663305696647,
+  :block/updated-at 1663305696647}
+ {:block/name "wav2vec-c",
+  :block/created-at 1663305696273,
+  :block/updated-at 1663305696273}
  {:block/name "waveglow",
   :block/created-at 1663221403425, 
   :block/updated-at 1663221403425}]

@@ -1,1 +1,5 @@
 - [paper link](https://arxiv.org/abs/1803.09017)
+- ## Info
+	- tag: #TTS #[[Global Style Tokens]]
+	- [Style Tokens: Unsupervised Style Modeling, Control and Transfer in End-to-End Speech Synthesis](https://arxiv.org/abs/1803.09017)
+	- source link [[1](https://github.com/PaddlePaddle/PaddleSpeech)], [[2](https://github.com/syang1993/gst-tacotron)], [[3](https://github.com/KinglittleQ/GST-Tacotron)]

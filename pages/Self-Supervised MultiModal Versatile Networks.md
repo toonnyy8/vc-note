@@ -1,4 +1,7 @@
-- [paper link](https://proceedings.neurips.cc/paper/2020/hash/0060ef47b12160b9198302ebdb144dcf-Abstract.html)
+- ## Info
+	- tag: #SSL
+	- [Self-Supervised MultiModal Versatile Networks](https://proceedings.neurips.cc/paper/2020/hash/0060ef47b12160b9198302ebdb144dcf-Abstract.html)
+	- [source link](https://github.com/deepmind/deepmind-research/tree/master/mmv)
 - ![2022-07-07-20-05-38.jpeg](../assets/2022-07-07-20-05-38.jpeg)
 	- Loss
 		- audio 與 vision 的 fearute 投影到 $va$ 空間後使用 [[NCE]]

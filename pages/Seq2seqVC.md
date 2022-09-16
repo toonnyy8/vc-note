@@ -1,0 +1,4 @@
+- ## Info
+	- tag: #ASR-Based #AutoEncoder-Based
+	- [Non-Parallel Sequence-to-Sequence Voice Conversion with Disentangled Linguistic and Speaker Representations](https://arxiv.org/abs/1906.10508)
+	- [source link](https://github.com/jxzhanggg/nonparaSeq2seqVC_code)
