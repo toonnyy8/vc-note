@@ -16,3 +16,6 @@
 	- 如何檢測 pitch 轉換
 	- ABX #ABX
 		- evaluation metric for unsupervised representation learning.
+	- Gross Pitch Error (GPE)
+	- F0 Frame Error (FFE)
+	- Mel-cepstral distortion (MCD)
