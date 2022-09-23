@@ -8,3 +8,4 @@
 - [[Libri-Light]]
 - [[Blizzard Challenge]]
 - [[UASpeech]]
+- https://github.com/jim-schwoebel/voice_datasets/blob/master/README.md
