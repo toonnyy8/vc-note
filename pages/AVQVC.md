@@ -1,0 +1,7 @@
+- ## Info
+	- tag:
+	- [AVQVC: One-shot Voice Conversion by Vector Quantization with applying contrastive learning](https://arxiv.org/abs/2202.10020)
+	- [source link]()
+	- [demo]()
+	- previous version: #VQVC
+	- next version:

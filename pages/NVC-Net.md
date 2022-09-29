@@ -18,7 +18,6 @@
 	- $\tilde{x}$ 是第 $\tilde{y}$ 個 speaker 的語音
 		- $\tilde{z}$ 表示 $E_s$ 從 $\tilde{x}$ 抽取的 speaker embedding
 - Loss
-  collapsed:: true
 	- Adversarial Loss
 		- 為了確保有轉換到 target speaker 的聲音，Discriminator 會判別 $Y$ 個 class, $Y$ 代表 train dataset speaker 的數量
 			- 用於判斷轉換的語音是否與目標 speaker 相似

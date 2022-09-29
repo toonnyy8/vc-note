@@ -1,3 +1,10 @@
+- ## Info
+	- tag: #ASR-Based #AutoEncoder-Based
+	- [Any-to-Many Voice Conversion with Location-Relative Sequence-to-Sequence Modeling](https://arxiv.org/abs/2009.02725)
+	- [source link](https://github.com/liusongxiang/ppg-vc)
+	- [demo](https://liusongxiang.github.io/BNE-Seq2SeqMoL-VC/)
+	- previous version:
+	- next version:
 - [paper link](https://arxiv.org/abs/2009.02725)
 - ![2022-07-25-22-40-51.jpeg](../assets/2022-07-25-22-40-51.jpeg)
 - ![2022-07-25-22-35-51.jpeg](../assets/2022-07-25-22-35-51.jpeg)

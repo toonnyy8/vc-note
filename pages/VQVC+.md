@@ -1,0 +1,6 @@
+- ## Info
+	- tag:
+	- [VQVC+: One-Shot Voice Conversion by Vector Quantization and U-Net architecture](https://arxiv.org/abs/2006.04154)
+	- [source link](https://github.com/ericwudayi/SkipVQVC)
+	- previous version: #VQVC
+	- next version:

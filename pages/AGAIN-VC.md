@@ -1,2 +1,6 @@
-- [paper link](https://arxiv.org/abs/2011.00316)
-- [source link](https://github.com/KimythAnly/AGAIN-VC)
+- ## Info
+	- tag:
+	- [AGAIN-VC: A One-shot Voice Conversion using Activation Guidance and Adaptive Instance Normalization](https://arxiv.org/abs/2011.00316)
+	- [source link](https://github.com/KimythAnly/AGAIN-VC)
+	- [demo](https://kimythanly.github.io/AGAIN-VC-demo/)
+	- previous version: #AdaIN-VC

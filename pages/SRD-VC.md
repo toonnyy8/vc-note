@@ -1,0 +1,7 @@
+- ## Info
+	- tag: #[[AutoEncoder-Based]]
+	- [Speech Representation Disentanglement with Adversarial Mutual Information Learning for One-shot Voice Conversion](https://www.isca-speech.org/archive/interspeech_2022/yang22f_interspeech.html)
+	- [source link](https://github.com/YoungSeng/SRD-VC)
+	- [demo](https://im1eon.github.io/IS2022-SRDVC/)
+	- previous version: #SpeechSplit #[[SpeechSplit 2.0]] #VQMIVC
+	- next version:

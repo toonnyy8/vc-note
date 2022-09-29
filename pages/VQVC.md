@@ -1,0 +1,7 @@
+- ## Info
+	- tag:
+	- [One-Shot Voice Conversion by Vector Quantization](https://ieeexplore.ieee.org/document/9053854)
+	- [source link](https://github.com/Jackson-Kang/VQVC-Pytorch)
+	- [demo](https://ericwudayi.github.io/vqvc/)
+	- previous version:
+	- next version: #VQVC+ #AVQVC

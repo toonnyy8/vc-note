@@ -1,2 +1,7 @@
-- [source link](https://github.com/auspicious3000/SpeechSplit)
-- [paper link](https://arxiv.org/abs/2004.11284)
+- ## Info
+	- tag: #AutoEncoder-Based
+	- [Unsupervised Speech Decomposition via Triple Information Bottleneck](https://arxiv.org/abs/2004.11284)
+	- [source link](https://github.com/auspicious3000/SpeechSplit)
+	- [demo](https://auspicious3000.github.io/SpeechSplit-Demo/)
+	- previous version:
+	- next version: #[[SpeechSplit 2.0]]

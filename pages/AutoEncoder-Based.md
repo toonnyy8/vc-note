@@ -1,3 +1,8 @@
 - LATER [[VQVC]]
 - LATER [[VQVC+]]
+- LATER [[AVQVC]]
 - LATER [[VQMIVC]]
+- LATER [[SpeechSplit]]
+- LATER [[SpeechSplit 2.0]]
+- LATER [[SRD-VC]]
+- DONE [[NVC-Net]]

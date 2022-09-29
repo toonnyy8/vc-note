@@ -1,0 +1,6 @@
+- ## Info
+	- tag:
+	- [One-shot Voice Conversion by Separating Speaker and Content Representations with Instance Normalization](https://arxiv.org/abs/1904.05742)
+	- source link: [1](https://github.com/jjery2243542/adaptive_voice_conversion), [2](https://github.com/cyhuang-tw/AdaIN-VC)
+	- [demo](https://jjery2243542.github.io/one-shot-vc-demo/)
+	- next version: #AGAIN-VC
