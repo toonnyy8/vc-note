@@ -8,4 +8,5 @@
 - [[Libri-Light]]
 - [[Blizzard Challenge]]
 - [[UASpeech]]
+- [[ESD Dataset]]
 - https://github.com/jim-schwoebel/voice_datasets/blob/master/README.md

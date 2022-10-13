@@ -6,3 +6,5 @@
 - LATER [[SpeechSplit 2.0]]
 - LATER [[SRD-VC]]
 - DONE [[NVC-Net]]
+- LATER [[AutoVC]]
+- LATER [[FVAE]]
