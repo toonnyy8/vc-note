@@ -1,0 +1,5 @@
+- ## Info
+	- tag: #TTS #duration
+	- [Non-Attentive Tacotron: Robust and Controllable Neural TTS Synthesis Including Unsupervised Duration Modeling](https://arxiv.org/abs/2010.04301)
+	- [source link](https://github.com/JoungheeKim/Non-Attentive-Tacotron)
+	- [demo](https://google.github.io/tacotron/publications/nat/)

@@ -1,2 +1,7 @@
-- tag: #TTS #[[Diffusion-Based]]
-- [paper link](https://arxiv.org/abs/2111.11755)
+- ## Info
+	- tag: #TTS #[[Diffusion-Based]]
+	- [Guided-TTS:Text-to-Speech with Untranscribed Speech](https://openreview.net/forum?id=CgV7NVOgDJZ)
+	- previous version:
+	- next version: #[[Guided-TTS 2]]
+- 單語者 TTS，使用 [[LJSpeech]] 作為訓練資料
+- 提出 Norm-based Classifier Guidance

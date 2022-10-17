@@ -1,3 +1,5 @@
-- [paper link](https://arxiv.org/abs/1909.01700)
-- [demo](https://tencent-ailab.github.io/durian/)
-- [implementation](https://github.com/ivanvovk/DurIAN)
+- ## Info
+	- tag: #TTS #duration
+	- [DurIAN: Duration Informed Attention Network For Multimodal Synthesis](https://arxiv.org/abs/1909.01700)
+	- [demo](https://tencent-ailab.github.io/durian/)
+	- [implementation](https://github.com/ivanvovk/DurIAN)

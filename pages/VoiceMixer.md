@@ -1,0 +1,7 @@
+- ## Info
+	- tag: #AutoEncoder-Based #GAN-Based #SSL #duration
+	- [VoiceMixer: Adversarial Voice Style Mixup](https://openreview.net/forum?id=0lzmTb4LGd3F)
+	- [source link](https://anonymous-speech.github.io/voicemixer/index.html)
+	- [demo](https://github.com/JustinYangJing/VoiceMixer)
+	- previous version:
+	- next version:

@@ -1,7 +1,10 @@
-- [source link](https://github.com/auspicious3000/AutoPST)
-- [paper link](https://arxiv.org/abs/2106.08519)
-- [demo](https://auspicious3000.github.io/AutoPST-Demo/)
-	- 想法有趣，但在語音品質的部分有改善空間
+- ## Info
+	- tag: #seq2seq #duration #AutoEncoder-Based
+	- [source link](https://github.com/auspicious3000/AutoPST)
+	- [Global Rhythm Style Transfer Without Text Transcriptions](https://arxiv.org/abs/2106.08519)
+	- [demo](https://auspicious3000.github.io/AutoPST-Demo/)
+		- 想法有趣，但在語音品質的部分有改善空間
+	- previous version: #[[Self-Expressing Autoencoder]] #SpeechSplit
 - 目標
 	- 更好的抽取韻律、節奏進行 VC
 	- 提出基於 Autoencoder 的 **P**rosody **S**tyle **T**ransfer framework

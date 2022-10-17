@@ -1,7 +1,10 @@
 - ## Info
-	- tag: #TTS #[[Diffusion-Based]]
+	- tag: #TTS #[[Diffusion-Based]] #[[Adaptive TTS]]
 	- [Guided-TTS 2: A Diffusion Model for High-quality Adaptive Text-to-Speech with Untranscribed Data](https://arxiv.org/abs/2205.15370)
+	- [demo](https://ksw0306.github.io/guided-tts2-demo/)
 	- previous version: #[[Guided-TTS]]
+- 基於 Guided TTS 的基礎下提出的 Adaptive TTS，
+	- 可以使用 zero-shot 或是 fine-tune 擴展到 unseen speaker
 - ![2022-09-26-17-33-51.jpeg](../assets/2022-09-26-17-33-51.jpeg)
 	- ### Classifier Guidance
 	- ### Classifier-free Guidance

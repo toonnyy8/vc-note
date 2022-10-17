@@ -1,0 +1,7 @@
+- ## Info
+	- tag: #TTS #duration
+	- [End-to-End Adversarial Text-to-Speech](https://arxiv.org/pdf/2006.03575.pdf)
+	- [source link](https://github.com/yanggeng1995/EATS)
+	- [demo](https://www.deepmind.com/publications/end-to-end-adversarial-text-to-speech)
+	- previous version:
+	- next version:
