@@ -5,6 +5,7 @@
 - ## Attention-Based #[[Attention-Based]]
 - ## Diffusion-Based #[[Diffusion-Based]]
 - ## TTS #TTS
+- ## Vocoder #Vocoder
 - ## Other Task #[[Other Task]]
 - ## Loss #Loss
 - ## Metrics #Metrics

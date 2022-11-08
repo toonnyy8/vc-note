@@ -19,3 +19,5 @@
 	- Gross Pitch Error (GPE)
 	- F0 Frame Error (FFE)
 	- Mel-cepstral distortion (MCD)
+	- DDUR #[[Sequence-to-Sequence Acoustic Modeling for Voice Conversion]]
+		- 用來評估 duration/rhythm 預測的誤差

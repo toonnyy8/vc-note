@@ -1,23 +1,23 @@
-- [source link](https://github.com/jik876/hifi-gan)
-- [paper link](https://daps.cs.princeton.edu/projects/HiFi-GAN/index.php?env-pairs=DAPS&speaker=f10&src-env=all)
+- ## Info
+	- tag: #[[GAN-Based]] #[[Vocoder]]
+	- [HiFi-GAN: Generative Adversarial Networks for Efficient and High Fidelity Speech Synthesis](https://arxiv.org/abs/2010.05646)
+	- [source link](https://github.com/jik876/hifi-gan)
+	- previous version:
+	- next version:
 - 快速高品質的 vocoder，並依據生成的速度、品質設計了三種不同的架構
 - Multi-Receptive Field Fusion (MRF)
-  collapsed:: true
 	- Generator 的基本結構
 	- 由多種不同感受野的 ResBlock 輸出相加為一層的 MRF
 	- ![2022-07-05-17-13-19.jpeg](../assets/2022-07-05-17-13-19.jpeg){:height 346, :width 774}
 - Multi-Period Discriminator (MPD)
-  collapsed:: true
 	- 對 voice ($\in\mathbb{R}^{T}$) 使用不同 period ($p$) 執行 reshape 成 2D ($\in\mathbb{R}^{\frac{T}{p}\times p}$) 的形式後在輸入 Discriminator。
 	- Discriminator 所使用的 kernal size 在 period 的部分為 1 $\Rightarrow$ Discriminator 對不連貫的樣本進行評分
 	- ![2022-07-05-17-17-26.jpeg](../assets/2022-07-05-17-17-26.jpeg){:width 400}
 - Multi-Scale Discriminator (MSD)
-  collapsed:: true
 	- 對 voice 使用不同 scale (stride) 的 downsample 後在輸入 Discriminator。
 	- 補足 MPD 的輸入資訊不連貫的缺失。
 	- ![2022-07-05-17-17-38.jpeg](../assets/2022-07-05-17-17-38.jpeg){:width 400}
 - Symbol
-  collapsed:: true
 	- $s$: ground truth audio
 	- $\tilde{s}$: $G(M_s)$, generated audio
 	- $M_*$: Mel-spectorgam of $s$ or $\tilde{s}$
@@ -25,7 +25,6 @@
 	- $D_k$: k-th sub-discriminator。
 		- 因為使用了 MPD 與 MSD ，而會有多個 discriminator。
 - Loss
-  collapsed:: true
 	- Discriminator Loss ($\mathcal{L}_D$)
 		- $\mathcal{L}_{advD}^{(k)}={(D_k(s)-1)}^2+{D_k(\tilde{s})}^2$
 		- $\mathcal{L}_D=\sum_{k=1}^K \mathcal{L}_{advD}^{(k)}$
@@ -43,7 +42,6 @@
 			- $\lambda_{FM}=2$
 			- $\lambda_{mel}=45$
 - Experiments
-  collapsed:: true
 	- Dataset #LJSpeech
 	- ![2022-07-05-19-18-24.jpeg](../assets/2022-07-05-19-18-24.jpeg){:height 303, :width 746}
 		- 依據生成品質與速度分成 V1, V2 and V3 三種版本
