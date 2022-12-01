@@ -1,0 +1,7 @@
+- ## Info
+	- tag: #Vocoder
+	- [WaveGrad: Estimating Gradients for Waveform Generation](https://openreview.net/forum?id=NsMLjcFaO8O)
+	- [source link](https://github.com/lmnt-com/wavegrad)
+	- [demo](https://wavegrad.github.io/)
+	- previous version:
+	- next version: #PriorGrad

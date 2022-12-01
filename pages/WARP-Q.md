@@ -1,0 +1,6 @@
+- ## Info
+	- tag: #Metrics
+	- [Speech quality assessmentwith WARP‐Q: From similarity to subsequence dynamic time warp cost](https://ietresearch.onlinelibrary.wiley.com/doi/epdf/10.1049/sil2.12151)
+	- [source link](https://github.com/wjassim/WARP-Q)
+	- previous version:
+	- next version:

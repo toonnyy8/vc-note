@@ -1,0 +1,7 @@
+- ## Info
+	- tag: #Vocoder #TTS
+	- [PriorGrad: Improving Conditional Denoising Diffusion Models with Data-Dependent Adaptive Prior](https://openreview.net/forum?id=_BNiN4IjC5)
+	- source link: [PriorGrad-acoustic](https://github.com/microsoft/NeuralSpeech/tree/master/PriorGrad-acoustic), [PriorGrad-vocoder](https://github.com/microsoft/NeuralSpeech/tree/master/PriorGrad-vocoder)
+	- [demo](https://speechresearch.github.io/priorgrad/)
+	- previous version: #WaveGrad
+	- next version: #SpecGrad
