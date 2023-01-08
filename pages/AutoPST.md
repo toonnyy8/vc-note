@@ -18,3 +18,21 @@
 - ![2022-07-10-21-10-34.jpeg](../assets/2022-07-10-21-10-34.jpeg){:height 574, :width 776}
 - ![2022-07-12-16-41-21.jpeg](../assets/2022-07-12-16-41-21.jpeg){:height 867, :width 776}
 	- 不同的 threshold 對語速會有不同的影響
+- ## Resample Algo.
+	- $G\sim\mathcal{U}[0.75,1.25]$
+	- $\textbf{for}~t=1~\textbf{to}~T~\textbf{do}$
+		- $Q\sim\mathcal{U}[G-0.05,G+0.05]$
+		- $b_{m+1}\leftarrow t$
+		- $\textbf{if}~Q\leq 1$
+			- $\tau(t)=Q\text{-}quantile[S(b_m,b_m-20:b_m+20)]$
+			- $\textbf{if}~S(b_m,t')<\tau(t),~\forall t\in [t,t+1]$
+				- $m\leftarrow m+1$
+				- $d_m\leftarrow b_{m+1}-b_m$
+		- $\textbf{else}$
+			- $\tau(t)=(2-Q)\text{-}quantile[S(b_m,b_m-20:b_m+20)]$
+			-
+		- $\tau(t)=Q\text{-}quantile[S(b_m,b_m-20:b_m+20)]$
+		- $b_{m+1}\leftarrow t$
+		- $\textbf{if}~~$
+		- $d_m\leftarrow b_{m+1}-b_m$
+	- $\textbf{return}~d$
