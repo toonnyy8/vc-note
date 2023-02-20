@@ -1,0 +1,7 @@
+- ## Info
+	- tag: #[[Other Task]]
+	- [High Fidelity Neural Audio Compression](https://arxiv.org/abs/2210.13438)
+	- source link: [official](https://github.com/facebookresearch/encodec)
+	- [demo](https://ai.honu.io/papers/encodec/samples.html)
+	- previous version:
+	- next version:
