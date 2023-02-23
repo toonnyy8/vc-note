@@ -25,6 +25,7 @@ jobs:
         uses: pengx17/logseq-publish@main
         with:
           version: "master"
+          theme: dark
       - name: add a nojekyll file
         run: touch $GITHUB_WORKSPACE/www/.nojekyll
       - name: Deploy 🚀
@@ -34,4 +35,3 @@ jobs:
           folder: www # The folder the action should deploy.
           clean: true
           single-commit: true
-          theme: dark
