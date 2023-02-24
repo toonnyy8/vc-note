@@ -1,5 +1,5 @@
 - ## Info
-	- tag: #TTS #[[Diffusion-Based]] #[[Adaptive TTS]]
+	- tag: #TTS #[[Diffusion-based]] #[[Adaptive TTS]]
 	- [Guided-TTS 2: A Diffusion Model for High-quality Adaptive Text-to-Speech with Untranscribed Data](https://arxiv.org/abs/2205.15370)
 	- [demo](https://ksw0306.github.io/guided-tts2-demo/)
 	- previous version: #[[Guided-TTS]]

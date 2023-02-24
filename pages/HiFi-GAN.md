@@ -1,5 +1,5 @@
 - ## Info
-	- tag: #[[GAN-Based]] #[[Vocoder]]
+	- tag: #[[GAN-based]] #[[Vocoder]]
 	- [HiFi-GAN: Generative Adversarial Networks for Efficient and High Fidelity Speech Synthesis](https://arxiv.org/abs/2010.05646)
 	- [source link](https://github.com/jik876/hifi-gan)
 	- previous version:

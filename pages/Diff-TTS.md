@@ -1,2 +1,2 @@
-- tag: #TTS #[[Diffusion-Based]]
+- tag: #TTS #[[Diffusion-based]]
 - [paper link](https://arxiv.org/abs/2104.01409v1)

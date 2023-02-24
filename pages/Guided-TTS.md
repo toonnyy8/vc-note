@@ -1,5 +1,5 @@
 - ## Info
-	- tag: #TTS #[[Diffusion-Based]]
+	- tag: #TTS #[[Diffusion-based]]
 	- [Guided-TTS:Text-to-Speech with Untranscribed Speech](https://openreview.net/forum?id=CgV7NVOgDJZ)
 	- previous version:
 	- next version: #[[Guided-TTS 2]]

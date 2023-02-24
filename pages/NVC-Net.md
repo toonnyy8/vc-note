@@ -1,6 +1,6 @@
 - [source link](https://github.com/sony/ai-research-code/tree/master/nvcnet)
 - [paper link](https://arxiv.org/abs/2106.00992)
-- #AutoEncoder-Based #GAN-Based
+- #AutoEncoder-based #GAN-based
 - Design Goals
   collapsed:: true
 	- reconstructing highly-perceptually-similar audio waveform from latent embeddings.

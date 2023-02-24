@@ -1,5 +1,5 @@
 - ## Info
-	- tag: #GAN-Based
+	- tag: #GAN-based
 	- [StarGAN-VC2: Rethinking Conditional Methods for StarGAN-Based Voice Conversion](https://arxiv.org/abs/1907.12279)
 	- [source link](https://github.com/SamuelBroughton/StarGAN-Voice-Conversion-2)
 	- previous version: #StarGAN-VC

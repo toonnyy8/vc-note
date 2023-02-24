@@ -1,5 +1,5 @@
 - ## Info
-	- tag: #GAN-Based
+	- tag: #GAN-based
 	- [StarGAN-VC: Non-parallel many-to-many voice conversion with star generative adversarial networks](https://arxiv.org/abs/1806.02169)
 	- source link [[1](https://github.com/hujinsen/pytorch-StarGAN-VC)] [[2](https://github.com/liusongxiang/StarGAN-Voice-Conversion)]
 	- next version: #[[StarGAN-VC2]]

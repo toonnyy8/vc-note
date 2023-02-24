@@ -1,2 +1,2 @@
-- #[[AutoEncoder-Based]] #[[GAN-Based]]
+- #[[AutoEncoder-based]] #[[GAN-based]]
 - 使用對抗式訓練將 speaker 與 pitch 的資訊去除

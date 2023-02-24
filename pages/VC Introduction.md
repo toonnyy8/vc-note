@@ -1,9 +1,10 @@
 - ## SSL #SSL
-- ## AutoEncoder-Based #[[AutoEncoder-Based]]
-- ## ASR-Based #[[ASR-Based]]
-- ## GAN-Based #[[GAN-Based]]
-- ## Attention-Based #[[Attention-Based]]
-- ## Diffusion-Based #[[Diffusion-Based]]
+- ## AutoEncoder-based #[[AutoEncoder-based]]
+- ## ASR-based #[[ASR-based]]
+- ## GAN-based #[[GAN-based]]
+- ## Attention-based #[[Attention-based]]
+- ## Diffusion-based #[[Diffusion-based]]
+- ## Flow-based #[[Flow-based]]
 - ## TTS #TTS
 - ## Vocoder #Vocoder
 - ## Other Task #[[Other Task]]

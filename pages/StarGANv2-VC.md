@@ -1,5 +1,5 @@
 - ## Info
-	- tag: #GAN-Based
+	- tag: #GAN-based
 	- [StarGANv2-VC: A Diverse, Unsupervised, Non-parallel Framework for Natural-Sounding Voice Conversion](https://arxiv.org/abs/2107.10394)
 	- [source link](https://github.com/yl4579/StarGANv2-VC)
 	- previous version: #StarGAN-VC2

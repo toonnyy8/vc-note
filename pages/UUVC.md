@@ -1,5 +1,5 @@
 - ## Info
-	- tag: #AutoEncoder-Based #duration
+	- tag: #AutoEncoder-based #duration
 	- [A unified one-shot prosody and speaker conversion system with self-supervised discrete speech units](https://arxiv.org/abs/2211.06535)
 	- [source link](https://github.com/b04901014/uuvc)
 	- [demo](https://b04901014.github.io/UUVC/)

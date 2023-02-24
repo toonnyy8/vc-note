@@ -1,5 +1,5 @@
 - ## Info
-	- tag: #seq2seq #duration #AutoEncoder-Based
+	- tag: #seq2seq #duration #AutoEncoder-based
 	- [source link](https://github.com/auspicious3000/AutoPST)
 	- [Global Rhythm Style Transfer Without Text Transcriptions](https://arxiv.org/abs/2106.08519)
 	- [demo](https://auspicious3000.github.io/AutoPST-Demo/)
